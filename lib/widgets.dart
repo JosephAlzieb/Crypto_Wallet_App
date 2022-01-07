@@ -7,6 +7,7 @@ Widget getTextFormField(var controller, String hintText, String label,{obscure =
     obscureText: obscure,
     keyboardType: keyboardType,
     controller: controller,
+    style: const TextStyle(color: Colors.white),
     decoration: InputDecoration(
       hintText: hintText,
       hintStyle: const TextStyle(color: Colors.white),
@@ -20,7 +21,7 @@ Widget getTextFormField(var controller, String hintText, String label,{obscure =
 
 Widget getTextButton(var text, var context, Function onPressed) {
   return Container(
-    height: MediaQuery.of(context).size.height / 8,
+    height: MediaQuery.of(context).size.height / 10,
     child: TextButton(
       child: Text(
         text,
