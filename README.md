@@ -1,16 +1,26 @@
 # crypto_wallet
 
-Crypto wallet app
+## i want to create an Crypto wallet App to store my cryptocurrency in a database. using Firebase
 
-## Getting Started
+#### Login page. if you dont have an acount, you can registe yoursalf
+![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/1.png)
 
-This project is a starting point for a Flutter application.
+#### add a registed email in database
+![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/2.png)
 
-A few resources to get you started if this is your first Flutter project:
+#### here i see my data
+![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/3.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### when you click on the floatingButton, you go to a page, where you can add new coins
+![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/4.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### select the coin, you want to add
+![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/5.png)
+
+#### added 100.5 ether
+![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/6.png)
+
+#### the coins is added.
+![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/7.png)
+
+
