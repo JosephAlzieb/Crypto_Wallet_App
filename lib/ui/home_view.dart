@@ -44,7 +44,8 @@ class _HomeViewState extends State<HomeView> {
               }
               return ListView(
                 children: snapschot.data.docs.map((doc) {
-                  return Center(
+                  return SizedBox(
+                    height: 50,
                     child: Container(
                       child: Center(
                         child: Row(
