@@ -34,7 +34,7 @@ class _AuthenticationState extends State<Authentication> {
             child: Column(
               children: [
                 getTextFormField(_email, "something@email.com", "Email", keyboardType:TextInputType.emailAddress ),
-                getTextFormField(_password, "Password", "Password", keyboardType: TextInputType.visiblePassword, obscure: true),
+                getTextFormField(_password, "Password", "Password",  obscure: true),
                 getTextButton("Login", context, () async {
                   bool shouldNavigate = await singIn(_email.text, _password.text);
                   if(shouldNavigate){
