@@ -44,13 +44,17 @@ class _HomeViewState extends State<HomeView> {
               }
               return ListView(
                 children: snapschot.data.docs.map((doc) {
-                  return Container(
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                      children: [
-                        Text("Coin Name: ${doc.id}"),
-                        Text("Amount Owned: ${doc.data()}")
-                      ],
+                  return Center(
+                    child: Container(
+                      child: Center(
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                          children: [
+                            Text("Coin Name: ${doc.id}", style: TextStyle(fontSize: 15),),
+                            Text("Amount Owned: ${doc.get('Amount')}", style: TextStyle(fontSize: 15))
+                          ],
+                        ),
+                      ),
                     ),
                   );
                 }).toList(),
