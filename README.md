@@ -3,24 +3,31 @@
 ## i want to create an Crypto wallet App to store my cryptocurrency in a database. using Firebase
 
 #### Login page. if you dont have an acount, you can registe yoursalf
-![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/1.png)
+<img src="https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/1.png" width="320" height="550">
+
 
 #### add a registed email in database
-![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/2.png)
+<img src="https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/2.png" width="320" height="550">
+
 
 #### here i see my data
-![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/3.png)
+<img src="https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/3.png" width="320" height="550">
+
 
 #### when you click on the floatingButton, you go to a page, where you can add new coins
-![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/4.png)
+<img src="https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/4.png" width="320" height="550">
+
 
 #### select the coin, you want to add
-![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/5.png)
+<img src="https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/5.png" width="320" height="550">
+
 
 #### added 100.5 ether
-![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/6.png)
+<img src="https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/6.png" width="320" height="550">
+
 
 #### the coins is added.
-![foxdemo](https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/7.png)
+<img src="https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/7.png" width="320" height="550">
+
 
 
