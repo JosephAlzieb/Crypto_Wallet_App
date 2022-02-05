@@ -22,11 +22,11 @@
 <img src="https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/5.png" width="290" height="490">
 
 
-#### added 100.5 ether
+#### added 100.5 Ether
 <img src="https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/6.png" width="290" height="490">
 
 
-#### the coins is added.
+#### the coins are added.
 <img src="https://github.com/JosephAlzieb/Crypto_Wallet_App/blob/master/screenshots/7.png" width="290" height="490">
 
 
